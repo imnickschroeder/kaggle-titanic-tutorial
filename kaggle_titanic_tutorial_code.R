@@ -1,5 +1,5 @@
-train <- read.csv('~/Data/titanic_train.csv')
-test <- read.csv('~/Data/titanic_test.csv')
+train <- read.csv('~/R_Projects/titanic_tutorial/kaggle-titanic-tutorial/titanic_train.csv')
+test <- read.csv('~/R_Projects/titanic_tutorial/kaggle-titanic-tutorial/titanic_test.csv')
 
 # summarize data
 summary(train$Sex)
